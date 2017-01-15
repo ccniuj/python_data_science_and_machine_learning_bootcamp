@@ -1,2 +1,2 @@
-# python_data_science_and_machine_learning_bootcamp
+Python Data Science and Machine Learning Bootcamp
 Jupyter notebook for Udemy course: Python data science and machine learning bootcamp
